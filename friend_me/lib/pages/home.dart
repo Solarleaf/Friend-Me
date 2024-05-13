@@ -114,7 +114,7 @@ class HomeRouteState extends State<HomeRoute> {
                                                                               Navigator.pop(context);
                                                                             },
                                                                             child:
-                                                                                const Text('Add Friend'),
+                                                                                const Text('Profile'),
                                                                           ),
                                                                           TextButton(
                                                                             onPressed:
@@ -122,7 +122,7 @@ class HomeRouteState extends State<HomeRoute> {
                                                                               Navigator.pop(context);
                                                                             },
                                                                             child:
-                                                                                const Text('Hangout'),
+                                                                                const Text('Raincheck'),
                                                                           ),
                                                                           TextButton(
                                                                             onPressed:
