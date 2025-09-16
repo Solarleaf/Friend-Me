@@ -1,4 +1,4 @@
-# This is not the most current version of this project
+# This is not the most current version of this project. An updated version uses Firebase and a lot of different, improved features
 
 [![Flutter Build Web](https://github.com/ChicoState/Friend-Me/actions/workflows/main.yml/badge.svg)](https://github.com/ChicoState/Friend-Me/actions/workflows/main.yml)
 
